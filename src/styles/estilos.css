@@ -1,0 +1,31 @@
+.coontainer{
+    background-color: black;
+    height: 80px;
+   
+}
+.contador{
+    display: grid;
+  grid-template-columns: repeat(6, 3fr);
+  grid-gap: 70px;
+  margin-top: 10px;
+  margin-left: 70px;
+  font-size: 40px;
+}
+.posicion1{
+color: white;
+}
+.posicion2{
+    color: white;
+}
+.posicion3{
+    color: white;
+}
+.posicion4{
+    color: white;
+}
+.posicion5{
+    color: white;
+}
+.posicion6{
+    color: white;
+}
